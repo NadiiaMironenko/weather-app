@@ -1,0 +1,50 @@
+.body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 600px;
+}
+
+ul {
+  list-style: none;
+}
+
+sup a {
+  text-decoration: none;
+}
+
+.container {
+  margin-top: 15px;
+}
+
+.header-city {
+  padding: 10px;
+  width: 100%;
+  border: none;
+  color: black;
+  text-decoration: none;
+}
+
+.search-input,
+.search-submit {
+  margin-top: 30px;
+  margin-left: 32px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.block {
+  display: inline-block;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  margin-top: 30px;
+  margin-left: 32px;
+}
+
+.current {
+  background-color: rgb(164, 248, 248);
+  border-radius: 4px;
+  padding: 10px;
+  margin-left: 32px;
+}
