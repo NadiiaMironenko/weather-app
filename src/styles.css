@@ -15,6 +15,9 @@ sup a {
 
 .container {
   margin-top: 15px;
+  width: 700px;
+  border: 2px solid rgb(56, 56, 56);
+  border-radius: 8px;
 }
 
 .header-city {
@@ -47,4 +50,8 @@ sup a {
   border-radius: 4px;
   padding: 10px;
   margin-left: 32px;
+}
+
+.info {
+  margin-left: 152px;
 }
